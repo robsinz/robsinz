@@ -1,4 +1,4 @@
-<h1 align="center">I'm Roderick de Leon</h1>
+<h1 align="center">I'm Rob Sinzieri</h1>
 
 <!-- <h3 align="center">A passionate fullstack developer</h3> -->
 <br>
