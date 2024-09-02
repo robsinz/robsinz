@@ -1,15 +1,35 @@
-<h1 align="center">I'm Rob Sinzieri</h1>
+<div 
+  style="display: grid; 
+  grid-template-columns: repeat(4, 1fr); 
+  grid-template-rows: repeat(4, auto); 
+  gap: 20px;"
+  border: 2px solid red;
+  >
+  <div style="grid-column: 2/3; grid-row: 1;">
+    <img src="https://i.imgur.com/b23Sli5.png" alt="Rob Sinzieri" width="400"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 2;">
+    <img src="https://i.imgur.com/sHYXW4K.png" alt="Rob Sinzieri Avatar" width="200" />
+  </div>
+  <div style="grid-column: 2; grid-row: 2;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=400&lines=Hi+there!+I'm+Rob;Software+Engineer;Comic+Book+Enthusiast;Whiskey+Lover" alt="Typing SVG" />
+    </a>
+  </div>
+</div>
 
-<!-- <h3 align="center">A passionate fullstack developer</h3> -->
-<br>
 
 
 
-<br>
-<h3 align="left">Connect with me:</h3>
+## About Me
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rob-sinz "Go to Rob's LinkedIn") &nbsp;
+As a software engineer, I'm driven by curiosity for solving complex problems and creating innovative solutions through code. With a strong foundation in React/Redux, VueJs, Javascript, Typescript, HTML, CSS/SCSS, Postgres, MongoDB, and Jest, I thrive in situations where rapid problem analysis and decisive action are crucial.
 
+I'm passionate about emerging technologies and continuously expanding my skill set to drive innovation in software development.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rob-sinz)
 <br> 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,3 +76,13 @@
 <br>  
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/rob-sinz/rob-sinz?display_timestamp=author&style=for-the-badge&label=LAST%20UPDATED&color=%236667AB)
+
+
+
+
+
+
+
+
+
+
