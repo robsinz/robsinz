@@ -15,9 +15,8 @@ I'm passionate about emerging technologies and continuously expanding my skill s
 <div>
   <span>  
 
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") &nbsp;
   [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript") &nbsp;
-  [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/ "Swift") &nbsp;
+  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") &nbsp;
   [![Go](https://skillicons.dev/icons?i=go)](https://golang.org "Go") &nbsp;
   [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/ "Bash") &nbsp;
   [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/ "HTML") &nbsp;
@@ -36,7 +35,6 @@ I'm passionate about emerging technologies and continuously expanding my skill s
   [![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/ "Vitest")  &nbsp; 
   [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/ "Vite")  &nbsp; 
   [![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/ "Webpack")  &nbsp; 
-  [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/ "Figma")  &nbsp;
   </span> 
   <span>  
 
