@@ -1,12 +1,12 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bangers&size=49&pause=1000&width=435&height=97&lines=Hey+there%2C+I'm+Rob.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a></p>
 
-## Me, In a Nutshell
+## 🥜 Me, In a Nutshell:
 As a software engineer, I'm driven by curiosity for solving complex problems and creating innovative solutions through code. With a strong foundation in React Native, React, VueJs, Javascript, 
 Typescript, HTML, CSS/SCSS, Postgres, MongoDB, and Jest, I thrive in situations where rapid problem analysis and decisive action are crucial.
 
 I'm passionate about emerging technologies and continuously expanding my skill set to drive innovation in software development.
 
-## Connect with me
+## 🍻 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rob-sinz)
 <br> 
