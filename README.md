@@ -1,29 +1,9 @@
-<div 
-  style="display: grid; 
-  grid-template-columns: repeat(4, 1fr); 
-  grid-template-rows: repeat(4, auto); 
-  gap: 20px;"
-  border: 2px solid red;
-  >
-  <div style="grid-column: 2/3; grid-row: 1;">
-    <img src="https://i.imgur.com/b23Sli5.png" alt="Rob Sinzieri" width="400"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 2;">
-    <img src="https://i.imgur.com/sHYXW4K.png" alt="Rob Sinzieri Avatar" width="200" />
-  </div>
-  <div style="grid-column: 2; grid-row: 2;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=400&lines=Hi+there!+I'm+Rob;Software+Engineer;Comic+Book+Enthusiast;Whiskey+Lover" alt="Typing SVG" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bangers&pause=1000&width=435&lines=Hey+there%2C+I'm+Rob.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</p>
 
-
-
-
-## About Me
-
-As a software engineer, I'm driven by curiosity for solving complex problems and creating innovative solutions through code. With a strong foundation in React/Redux, VueJs, Javascript, Typescript, HTML, CSS/SCSS, Postgres, MongoDB, and Jest, I thrive in situations where rapid problem analysis and decisive action are crucial.
+As a software engineer, I'm driven by curiosity for solving complex problems and creating innovative solutions through code. With a strong foundation in React Native, React, VueJs, Javascript, 
+Typescript, HTML, CSS/SCSS, Postgres, MongoDB, and Jest, I thrive in situations where rapid problem analysis and decisive action are crucial.
 
 I'm passionate about emerging technologies and continuously expanding my skill set to drive innovation in software development.
 
@@ -73,9 +53,7 @@ I'm passionate about emerging technologies and continuously expanding my skill s
   </span> 
 </div>  
 <br>  
-<br>  
-
-![GitHub last commit](https://img.shields.io/github/last-commit/rob-sinz/rob-sinz?display_timestamp=author&style=for-the-badge&label=LAST%20UPDATED&color=%236667AB)
+<br>
 
 
 
