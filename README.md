@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bangers&pause=1000&width=435&lines=Hey+there%2C+I'm+Rob.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
-</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bangers&size=49&pause=1000&width=435&height=97&lines=Hey+there%2C+I'm+Rob.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a></p>
 
+## In a Nutshell
 As a software engineer, I'm driven by curiosity for solving complex problems and creating innovative solutions through code. With a strong foundation in React Native, React, VueJs, Javascript, 
 Typescript, HTML, CSS/SCSS, Postgres, MongoDB, and Jest, I thrive in situations where rapid problem analysis and decisive action are crucial.
 
