@@ -17,7 +17,6 @@ I'm passionate about emerging technologies and continuously expanding my skill s
 
   [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript") &nbsp;
   [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") &nbsp;
-  [![Go](https://skillicons.dev/icons?i=go)](https://golang.org "Go") &nbsp;
   [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/ "Bash") &nbsp;
   [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/ "HTML") &nbsp;
   [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/ "CSS") &nbsp;
